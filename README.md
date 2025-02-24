@@ -15,6 +15,11 @@ Ensure you have **Python 3** installed. Then, install the required dependencies:
 ```bash
 pip install requests
 ```
+Clone this repository
+
+```bash
+git clone https://github.com/Aceproulx/sif.git
+```
 
 ## Usage
 Run **SIF** using the command line:
